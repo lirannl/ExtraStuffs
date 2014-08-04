@@ -1,0 +1,16 @@
+[
+{
+  "modid": "falafels",
+  "name": "Falafels",
+  "description": "Mmmmm. Tasty Falafels.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Liran"],
+  "credits": "The Forge and FML guys, thanks a TON!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
